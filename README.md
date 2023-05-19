@@ -1,6 +1,5 @@
-
 # 💫 About Me:
-Im currently working as a US Healthcare Engineer Traniee<br>I have experience in digital marketing<br>
+👨‍💻 Data engineer and analyst, responsible for collecting, processing, and analyzing large datasets.<br>🚀 Passionate about exploring new technologies and tools.<br>💡 Goal is to streamline data-related processes.<br>📈 Want to make data-driven decision-making more accessible.<br>
 
 
 ## 🌐 Socials:
